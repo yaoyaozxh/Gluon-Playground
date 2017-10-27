@@ -1,2 +1,4 @@
 .DS_Store
 sftp-config.json
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
